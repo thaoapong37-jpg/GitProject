@@ -1,1 +1,1 @@
-# GitProject <!DOCTYPE html><html><head><title>News Page</title></head><body><h1>Welcome to News Page</h1></body></html>
+# GitProject
